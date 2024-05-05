@@ -33,14 +33,15 @@ body {
     flex-direction: column;
     justify-self: center;
     align-items: center;
-    position: absolute;
+    /* position: absolute;
     top: 0;
     bottom: auto;
     left: 0;
-    right: 0;
+    right: 0; */
     width: 730px;
     padding: 20px;
-    margin: 3rem 0;
+    margin: 100px;
+    margin-inline-start: 25%;
 }
 
 .text {
